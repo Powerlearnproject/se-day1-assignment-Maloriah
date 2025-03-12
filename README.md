@@ -28,10 +28,11 @@ Answer:
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Answer:
-1. Waterfall methodology - This is a linear approach whereby there are different stages/phases that need to follow each other in such a way that the second phase can only be started once the first phase is finished.
-Going back to the previous stage or phase is not allowed.
-2. Agile methodology - This is an iterative and incremental approach whereby 
-
+1. Waterfall methodology - This is a linear approach whereby there are steps that need to follow each other and unlike waterfall you cannot go back to make changes to a previous step.
+It is therefore less flexible compared to agile and accomodates little customer feedback. 
+This would be apropriate in a scenario whereby the software being built has existed before and the processes and requirements are clearly outlined.
+2. Agile methodology - This is an iterative and incremental approach whereby each iteration or module is designed, developed and tested before moving on to the next iteration. In case of any faults or changes in agile you can revisit the iteration and make the changes. It is therefore more flexible compared to agile and fosters collaboration.
+This would be apropriate in a scenario whereby the the requirements are continuously changing and there is a good budget with adequate resources..
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Answer:
 1. Software Developer - Writes the code to build the software product.
@@ -62,7 +63,11 @@ Answer:
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Answer:
+Answer: Prompt engineering is the way of communicating with AI by asking a clear set of questions or giving a clear set of commands to get the best possible response to them.
+Prompt engineering is important in that it helps AI clearley understand what we need and get accurate and clear information based on the clear and specific prompts.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Answer:
+1. Vague prompt : Give me ideas on what to gift someone.
+2. Improved prompt : Give me ideas on what to gift a teenage girl for her birthday.
+The second prompt is better as it clearly captures who I want to gift and the occasion. These are the key words I need to guide the AI on the kind of response I want. 
